@@ -2,7 +2,7 @@ I am amazed to see how much Claude Code and Google Gemini could do carrying out 
 
 In Claude Code and google Gemini, I could write instructions using regular words and sentences and python codes would be created to carry out all kinds of tasks.  There are 2 features I particularly like:
 
-1)  Both could be working on Macbook terminal. No python IDEs are needed. Most of my codes are developped in Linux interface or jupyter notebook.  Claude Code works without the need of IDE. So it fits me really well.
+1)  Both Claude Code and Google Gemini could be working on Macbook terminal. No python IDEs are needed. Most of my codes are developped in Linux interface or jupyter notebook.  Claude Code works without the need of IDE. So it fits me really well.
 2)  Claude Code or Google Gemini could test the python codes it created and if it find some errors, it will try to correct itself.  I really like this self-validation and self improving capacity.
 3)  If the results are not satisfcatory, I could always ask Claude Code to try harder and most of the time, I could get what I need.
 
