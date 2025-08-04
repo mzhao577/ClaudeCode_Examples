@@ -1,0 +1,2 @@
+It looks like you did not actually check whether a university has ststas dept since the values for all 177 known universities are true.  Could you think harder 
+  and do a real verification?  If there is a stats_dept, could you also lists the url for that stats department?

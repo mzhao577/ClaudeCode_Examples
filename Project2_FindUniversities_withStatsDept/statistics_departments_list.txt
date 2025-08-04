@@ -1,0 +1,377 @@
+US UNIVERSITIES WITH VERIFIED STATISTICS DEPARTMENTS
+============================================================
+
+Alabama:
+-------
+  • University of Alabama at Birmingham
+    University: https://www.uab.edu
+    Statistics Dept: https://www.uab.edu/statistics
+
+
+Arizona:
+-------
+  • Arizona State University
+    University: https://www.asu.edu
+    Statistics Dept: https://www.asu.edu/statistics
+
+  • University of Arizona
+    University: https://www.arizona.edu
+    Statistics Dept: https://statistics.arizona.edu
+
+  • Northern Arizona University
+    University: https://nau.edu
+    Statistics Dept: https://nau.edu/statistics
+
+  • Arizona State University
+    University: https://www.asu.edu
+    Statistics Dept: https://www.asu.edu/statistics
+
+
+California:
+----------
+  • Stanford University
+    University: https://www.stanford.edu
+    Statistics Dept: https://statistics.stanford.edu
+
+  • University of California, Berkeley
+    University: https://www.berkeley.edu
+    Statistics Dept: https://statistics.berkeley.edu
+
+  • University of California, Davis
+    University: https://www.ucdavis.edu
+    Statistics Dept: https://statistics.ucdavis.edu
+
+  • University of California, Irvine
+    University: https://uci.edu
+    Statistics Dept: https://statistics.uci.edu
+
+  • University of California, Riverside
+    University: https://www.ucr.edu
+    Statistics Dept: https://statistics.ucr.edu
+
+  • San Diego State University
+    University: https://www.sdsu.edu
+    Statistics Dept: https://stats.sdsu.edu
+
+
+Colorado:
+--------
+  • Colorado State University
+    University: https://www.colostate.edu
+    Statistics Dept: https://statistics.colostate.edu
+
+
+Connecticut:
+-----------
+  • Yale University
+    University: https://www.yale.edu
+    Statistics Dept: https://statistics.yale.edu
+
+  • University of Connecticut
+    University: https://uconn.edu
+    Statistics Dept: https://statistics.uconn.edu
+
+
+Florida:
+-------
+  • University of Florida
+    University: https://www.ufl.edu
+    Statistics Dept: https://stat.ufl.edu
+
+  • Florida State University
+    University: https://www.fsu.edu
+    Statistics Dept: https://stat.fsu.edu
+
+
+Georgia:
+-------
+  • University of Georgia
+    University: https://www.uga.edu
+    Statistics Dept: https://stat.uga.edu
+
+
+Idaho:
+-----
+  • University of Idaho
+    University: https://www.uidaho.edu
+    Statistics Dept: https://www.uidaho.edu/statistics
+
+
+Illinois:
+--------
+  • University of Chicago
+    University: https://www.uchicago.edu
+    Statistics Dept: https://statistics.uchicago.edu
+
+  • Northwestern University
+    University: https://www.northwestern.edu
+    Statistics Dept: https://statistics.northwestern.edu
+
+  • University of Illinois at Urbana-Champaign
+    University: https://illinois.edu
+    Statistics Dept: https://stat.illinois.edu
+
+  • Northern Illinois University
+    University: https://www.niu.edu
+    Statistics Dept: https://stat.niu.edu
+
+  • Southern Illinois University
+    University: https://siu.edu
+    Statistics Dept: https://statistics.siu.edu
+
+  • University of Chicago
+    University: https://www.uchicago.edu
+    Statistics Dept: https://statistics.uchicago.edu
+
+
+Indiana:
+-------
+  • Purdue University
+    University: https://www.purdue.edu
+    Statistics Dept: https://www.purdue.edu/statistics
+
+  • Indiana University
+    University: https://www.indiana.edu
+    Statistics Dept: https://stat.indiana.edu
+
+
+Iowa:
+----
+  • University of Iowa
+    University: https://uiowa.edu
+    Statistics Dept: https://stat.uiowa.edu
+
+  • Iowa State University
+    University: https://www.iastate.edu
+    Statistics Dept: https://stat.iastate.edu
+
+
+Kentucky:
+--------
+  • University of Kentucky
+    University: https://www.uky.edu
+    Statistics Dept: https://statistics.uky.edu
+
+
+Louisiana:
+---------
+  • Louisiana State University
+    University: https://www.lsu.edu
+    Statistics Dept: https://stat.lsu.edu
+
+
+Maryland:
+--------
+  • University of Maryland
+    University: https://www.umd.edu
+    Statistics Dept: https://stat.umd.edu
+
+
+Massachusetts:
+-------------
+  • Harvard University
+    University: https://www.harvard.edu
+    Statistics Dept: https://www.harvard.edu/statistics
+
+  • Massachusetts Institute of Technology
+    University: https://web.mit.edu
+    Statistics Dept: https://stat.mit.edu
+
+
+Michigan:
+--------
+  • Michigan State University
+    University: https://msu.edu
+    Statistics Dept: https://stat.msu.edu
+
+  • Western Michigan University
+    University: https://wmich.edu
+    Statistics Dept: https://wmich.edu/statistics
+
+
+Missouri:
+--------
+  • Washington University in St. Louis
+    University: https://wustl.edu
+    Statistics Dept: https://wustl.edu/statistics
+
+  • University of Missouri
+    University: https://missouri.edu
+    Statistics Dept: https://statistics.missouri.edu
+
+  • Saint Louis University
+    University: https://www.slu.edu
+    Statistics Dept: https://stat.slu.edu
+
+
+Nebraska:
+--------
+  • University of Nebraska-Lincoln
+    University: https://www.unl.edu
+    Statistics Dept: https://statistics.unl.edu
+
+
+New Jersey:
+----------
+  • Rutgers University
+    University: https://www.rutgers.edu
+    Statistics Dept: https://statistics.rutgers.edu
+
+
+New Mexico:
+----------
+  • University of New Mexico
+    University: https://www.unm.edu
+    Statistics Dept: https://stat.unm.edu
+
+
+New York:
+--------
+  • Cornell University
+    University: https://www.cornell.edu
+    Statistics Dept: https://stat.cornell.edu
+
+  • Rochester Institute of Technology
+    University: https://www.rit.edu
+    Statistics Dept: https://statistics.rit.edu
+
+
+North Carolina:
+--------------
+  • Duke University
+    University: https://www.duke.edu
+    Statistics Dept: https://stat.duke.edu
+
+  • Wake Forest University
+    University: https://www.wfu.edu
+    Statistics Dept: https://stats.wfu.edu
+
+
+North Dakota:
+------------
+  • North Dakota State University
+    University: https://www.ndsu.edu
+    Statistics Dept: https://www.ndsu.edu/statistics
+
+
+Ohio:
+----
+  • Case Western Reserve University
+    University: https://case.edu
+    Statistics Dept: https://statistics.case.edu
+
+  • Ohio State University
+    University: https://www.osu.edu
+    Statistics Dept: https://stat.osu.edu
+
+  • Miami University
+    University: https://miamioh.edu
+    Statistics Dept: https://miamioh.edu/statistics
+
+  • University of Akron
+    University: https://www.uakron.edu
+    Statistics Dept: https://www.uakron.edu/statistics
+
+
+Oklahoma:
+--------
+  • Oklahoma State University
+    University: https://go.okstate.edu
+    Statistics Dept: https://statistics.okstate.edu
+
+
+Oregon:
+------
+  • Oregon State University
+    University: https://oregonstate.edu
+    Statistics Dept: https://stat.oregonstate.edu
+
+
+Pennsylvania:
+------------
+  • Carnegie Mellon University
+    University: https://www.cmu.edu
+    Statistics Dept: https://stat.cmu.edu
+
+  • Pennsylvania State University
+    University: https://www.psu.edu
+    Statistics Dept: https://stats.psu.edu
+
+  • University of Pittsburgh
+    University: https://www.pitt.edu
+    Statistics Dept: https://statistics.pitt.edu
+
+
+South Carolina:
+--------------
+  • University of South Carolina
+    University: https://www.sc.edu
+    Statistics Dept: https://www.sc.edu/statistics
+
+
+South Dakota:
+------------
+  • University of South Dakota
+    University: https://www.usd.edu
+    Statistics Dept: https://www.usd.edu/statistics
+
+
+Texas:
+-----
+  • Rice University
+    University: https://www.rice.edu
+    Statistics Dept: https://statistics.rice.edu
+
+  • University of Texas at Austin
+    University: https://www.utexas.edu
+    Statistics Dept: https://stat.utexas.edu
+
+  • Texas A&M University
+    University: https://www.tamu.edu
+    Statistics Dept: https://stat.tamu.edu
+
+  • Southern Methodist University
+    University: https://www.smu.edu
+    Statistics Dept: https://www.smu.edu/statistics
+
+
+Utah:
+----
+  • Utah State University
+    University: https://www.usu.edu
+    Statistics Dept: https://stat.usu.edu
+
+
+Vermont:
+-------
+  • University of Vermont
+    University: https://www.uvm.edu
+    Statistics Dept: https://www.uvm.edu/statistics
+
+
+Virginia:
+--------
+  • Virginia Tech
+    University: https://www.vt.edu
+    Statistics Dept: https://stat.vt.edu
+
+  • George Mason University
+    University: https://www.gmu.edu
+    Statistics Dept: https://statistics.gmu.edu
+
+
+Wisconsin:
+---------
+  • University of Wisconsin-Madison
+    University: https://www.wisc.edu
+    Statistics Dept: https://stat.wisc.edu
+
+
+Wyoming:
+-------
+  • University of Wyoming
+    University: https://www.uwyo.edu
+    Statistics Dept: https://www.uwyo.edu/statistics
+
+
+TOTAL: 67 universities with statistics departments

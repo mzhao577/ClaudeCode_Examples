@@ -1,0 +1,178 @@
+Harvard University|https://www.harvard.edu|Massachusetts
+Stanford University|https://www.stanford.edu|California
+Massachusetts Institute of Technology|https://web.mit.edu|Massachusetts
+University of California, Berkeley|https://www.berkeley.edu|California
+University of Chicago|https://www.uchicago.edu|Illinois
+Carnegie Mellon University|https://www.cmu.edu|Pennsylvania
+Yale University|https://www.yale.edu|Connecticut
+Princeton University|https://www.princeton.edu|New Jersey
+Columbia University|https://www.columbia.edu|New York
+University of Pennsylvania|https://www.upenn.edu|Pennsylvania
+Duke University|https://www.duke.edu|North Carolina
+Northwestern University|https://www.northwestern.edu|Illinois
+University of Michigan|https://umich.edu|Michigan
+University of California, Los Angeles|https://www.ucla.edu|California
+University of Wisconsin-Madison|https://www.wisc.edu|Wisconsin
+Cornell University|https://www.cornell.edu|New York
+University of Washington|https://www.washington.edu|Washington
+Rice University|https://www.rice.edu|Texas
+Vanderbilt University|https://www.vanderbilt.edu|Tennessee
+Emory University|https://www.emory.edu|Georgia
+University of California, San Diego|https://ucsd.edu|California
+Johns Hopkins University|https://www.jhu.edu|Maryland
+Washington University in St. Louis|https://wustl.edu|Missouri
+Brown University|https://www.brown.edu|Rhode Island
+Dartmouth College|https://home.dartmouth.edu|New Hampshire
+University of Southern California|https://www.usc.edu|California
+Boston University|https://www.bu.edu|Massachusetts
+New York University|https://www.nyu.edu|New York
+University of Rochester|https://www.rochester.edu|New York
+Case Western Reserve University|https://case.edu|Ohio
+University of California, Davis|https://www.ucdavis.edu|California
+University of California, Irvine|https://uci.edu|California
+University of California, Santa Barbara|https://www.ucsb.edu|California
+University of Virginia|https://www.virginia.edu|Virginia
+University of North Carolina at Chapel Hill|https://www.unc.edu|North Carolina
+Georgia Institute of Technology|https://www.gatech.edu|Georgia
+University of Texas at Austin|https://www.utexas.edu|Texas
+Texas A&M University|https://www.tamu.edu|Texas
+University of Florida|https://www.ufl.edu|Florida
+Florida State University|https://www.fsu.edu|Florida
+University of Minnesota|https://twin-cities.umn.edu|Minnesota
+Ohio State University|https://www.osu.edu|Ohio
+Pennsylvania State University|https://www.psu.edu|Pennsylvania
+Purdue University|https://www.purdue.edu|Indiana
+University of Illinois at Urbana-Champaign|https://illinois.edu|Illinois
+University of Iowa|https://uiowa.edu|Iowa
+Iowa State University|https://www.iastate.edu|Iowa
+Kansas State University|https://www.k-state.edu|Kansas
+University of Kansas|https://ku.edu|Kansas
+University of Missouri|https://missouri.edu|Missouri
+University of Nebraska-Lincoln|https://www.unl.edu|Nebraska
+University of Oklahoma|https://www.ou.edu|Oklahoma
+Oklahoma State University|https://go.okstate.edu|Oklahoma
+Arizona State University|https://www.asu.edu|Arizona
+University of Arizona|https://www.arizona.edu|Arizona
+University of Colorado Boulder|https://www.colorado.edu|Colorado
+Colorado State University|https://www.colostate.edu|Colorado
+University of Utah|https://www.utah.edu|Utah
+Utah State University|https://www.usu.edu|Utah
+University of Oregon|https://www.uoregon.edu|Oregon
+Oregon State University|https://oregonstate.edu|Oregon
+University of Nevada, Las Vegas|https://www.unlv.edu|Nevada
+University of Nevada, Reno|https://www.unr.edu|Nevada
+Montana State University|https://www.montana.edu|Montana
+University of Montana|https://www.umt.edu|Montana
+North Dakota State University|https://www.ndsu.edu|North Dakota
+University of North Dakota|https://und.edu|North Dakota
+South Dakota State University|https://www.sdstate.edu|South Dakota
+University of South Dakota|https://www.usd.edu|South Dakota
+University of Wyoming|https://www.uwyo.edu|Wyoming
+University of Idaho|https://www.uidaho.edu|Idaho
+Boise State University|https://www.boisestate.edu|Idaho
+University of Alaska Fairbanks|https://www.uaf.edu|Alaska
+University of Hawaii at Manoa|https://manoa.hawaii.edu|Hawaii
+University of South Carolina|https://www.sc.edu|South Carolina
+Clemson University|https://www.clemson.edu|South Carolina
+North Carolina State University|https://www.ncsu.edu|North Carolina
+Wake Forest University|https://www.wfu.edu|North Carolina
+University of Tennessee|https://www.utk.edu|Tennessee
+University of Kentucky|https://www.uky.edu|Kentucky
+University of Louisville|https://louisville.edu|Kentucky
+West Virginia University|https://www.wvu.edu|West Virginia
+Virginia Tech|https://www.vt.edu|Virginia
+George Mason University|https://www.gmu.edu|Virginia
+University of Maryland|https://www.umd.edu|Maryland
+University of Delaware|https://www.udel.edu|Delaware
+Rutgers University|https://www.rutgers.edu|New Jersey
+University of Connecticut|https://uconn.edu|Connecticut
+University of Vermont|https://www.uvm.edu|Vermont
+University of Maine|https://umaine.edu|Maine
+University of New Hampshire|https://www.unh.edu|New Hampshire
+University of Rhode Island|https://www.uri.edu|Rhode Island
+Syracuse University|https://www.syracuse.edu|New York
+University at Albany|https://www.albany.edu|New York
+University at Buffalo|https://www.buffalo.edu|New York
+Stony Brook University|https://www.stonybrook.edu|New York
+Rochester Institute of Technology|https://www.rit.edu|New York
+Rensselaer Polytechnic Institute|https://www.rpi.edu|New York
+University of Pittsburgh|https://www.pitt.edu|Pennsylvania
+Temple University|https://www.temple.edu|Pennsylvania
+Drexel University|https://drexel.edu|Pennsylvania
+Villanova University|https://www.villanova.edu|Pennsylvania
+Lehigh University|https://www1.lehigh.edu|Pennsylvania
+University of Cincinnati|https://www.uc.edu|Ohio
+Miami University|https://miamioh.edu|Ohio
+University of Akron|https://www.uakron.edu|Ohio
+Kent State University|https://www.kent.edu|Ohio
+Bowling Green State University|https://www.bgsu.edu|Ohio
+Wayne State University|https://wayne.edu|Michigan
+Michigan State University|https://msu.edu|Michigan
+Western Michigan University|https://wmich.edu|Michigan
+Central Michigan University|https://www.cmich.edu|Michigan
+University of Wisconsin-Milwaukee|https://uwm.edu|Wisconsin
+Marquette University|https://www.marquette.edu|Wisconsin
+Northern Illinois University|https://www.niu.edu|Illinois
+Southern Illinois University|https://siu.edu|Illinois
+DePaul University|https://www.depaul.edu|Illinois
+Illinois Institute of Technology|https://www.iit.edu|Illinois
+University of Chicago|https://www.uchicago.edu|Illinois
+Indiana University|https://www.indiana.edu|Indiana
+Ball State University|https://www.bsu.edu|Indiana
+Indiana State University|https://www.indstate.edu|Indiana
+University of Notre Dame|https://www.nd.edu|Indiana
+Drake University|https://www.drake.edu|Iowa
+University of Northern Iowa|https://uni.edu|Iowa
+Wichita State University|https://www.wichita.edu|Kansas
+Kansas State University|https://www.k-state.edu|Kansas
+University of Missouri-Kansas City|https://www.umkc.edu|Missouri
+Missouri State University|https://www.missouristate.edu|Missouri
+Saint Louis University|https://www.slu.edu|Missouri
+University of Arkansas|https://www.uark.edu|Arkansas
+Arkansas State University|https://www.astate.edu|Arkansas
+Louisiana State University|https://www.lsu.edu|Louisiana
+Tulane University|https://tulane.edu|Louisiana
+University of New Orleans|https://www.uno.edu|Louisiana
+University of Mississippi|https://olemiss.edu|Mississippi
+Mississippi State University|https://www.msstate.edu|Mississippi
+University of Alabama|https://www.ua.edu|Alabama
+Auburn University|https://www.auburn.edu|Alabama
+University of Alabama at Birmingham|https://www.uab.edu|Alabama
+University of South Alabama|https://www.southalabama.edu|Alabama
+Florida International University|https://www.fiu.edu|Florida
+University of Central Florida|https://www.ucf.edu|Florida
+Florida Institute of Technology|https://www.fit.edu|Florida
+Nova Southeastern University|https://www.nova.edu|Florida
+University of Miami|https://www.miami.edu|Florida
+Florida Atlantic University|https://www.fau.edu|Florida
+University of South Florida|https://www.usf.edu|Florida
+Georgia State University|https://www.gsu.edu|Georgia
+Georgia Southern University|https://www.georgiasouthern.edu|Georgia
+University of Georgia|https://www.uga.edu|Georgia
+Texas Tech University|https://www.ttu.edu|Texas
+University of Houston|https://uh.edu|Texas
+Texas Christian University|https://www.tcu.edu|Texas
+Baylor University|https://www.baylor.edu|Texas
+Southern Methodist University|https://www.smu.edu|Texas
+Texas State University|https://www.txst.edu|Texas
+University of Texas at Dallas|https://www.utdallas.edu|Texas
+New Mexico State University|https://nmsu.edu|New Mexico
+University of New Mexico|https://www.unm.edu|New Mexico
+Northern Arizona University|https://nau.edu|Arizona
+Arizona State University|https://www.asu.edu|Arizona
+Washington State University|https://wsu.edu|Washington
+Western Washington University|https://www.wwu.edu|Washington
+Portland State University|https://www.pdx.edu|Oregon
+University of Portland|https://www.up.edu|Oregon
+Gonzaga University|https://www.gonzaga.edu|Washington
+Seattle University|https://www.seattleu.edu|Washington
+University of California, Riverside|https://www.ucr.edu|California
+California State University, Long Beach|https://www.csulb.edu|California
+San Diego State University|https://www.sdsu.edu|California
+California State University, Fullerton|https://www.fullerton.edu|California
+University of San Francisco|https://www.usfca.edu|California
+Santa Clara University|https://www.scu.edu|California
+Pepperdine University|https://www.pepperdine.edu|California
+Claremont Graduate University|https://www.cgu.edu|California
+California Institute of Technology|https://www.caltech.edu|California
+Harvey Mudd College|https://www.hmc.edu|California

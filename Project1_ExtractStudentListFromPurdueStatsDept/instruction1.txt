@@ -1,0 +1,7 @@
+Could you write python code to extract all students from this website: https://www.stat.purdue.edu/people/graduate_students/index.html?  I would you to extract all 
+  the following information: 
+	1) Student Name
+	2) Program (MS or PhD),  
+        3) Office location 
+        4) Email.  
+If some information is missing, then leave if blank.  I would like the output to a csv file with file name: students.csv

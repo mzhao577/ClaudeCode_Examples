@@ -1,0 +1,1426 @@
+[
+  {
+    "name": "Harvard University",
+    "url": "https://www.harvard.edu",
+    "state": "Massachusetts",
+    "has_stats_dept": true,
+    "verified": true,
+    "dept_url": "https://www.harvard.edu/statistics"
+  },
+  {
+    "name": "Stanford University",
+    "url": "https://www.stanford.edu",
+    "state": "California",
+    "has_stats_dept": true,
+    "verified": true,
+    "dept_url": "https://statistics.stanford.edu"
+  },
+  {
+    "name": "Massachusetts Institute of Technology",
+    "url": "https://web.mit.edu",
+    "state": "Massachusetts",
+    "has_stats_dept": true,
+    "verified": true,
+    "dept_url": "https://stat.mit.edu"
+  },
+  {
+    "name": "University of California, Berkeley",
+    "url": "https://www.berkeley.edu",
+    "state": "California",
+    "has_stats_dept": true,
+    "verified": true,
+    "dept_url": "https://statistics.berkeley.edu"
+  },
+  {
+    "name": "University of Chicago",
+    "url": "https://www.uchicago.edu",
+    "state": "Illinois",
+    "has_stats_dept": true,
+    "verified": true,
+    "dept_url": "https://statistics.uchicago.edu"
+  },
+  {
+    "name": "Carnegie Mellon University",
+    "url": "https://www.cmu.edu",
+    "state": "Pennsylvania",
+    "has_stats_dept": true,
+    "verified": true,
+    "dept_url": "https://stat.cmu.edu"
+  },
+  {
+    "name": "Yale University",
+    "url": "https://www.yale.edu",
+    "state": "Connecticut",
+    "has_stats_dept": true,
+    "verified": true,
+    "dept_url": "https://statistics.yale.edu"
+  },
+  {
+    "name": "Princeton University",
+    "url": "https://www.princeton.edu",
+    "state": "New Jersey",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "Columbia University",
+    "url": "https://www.columbia.edu",
+    "state": "New York",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "University of Pennsylvania",
+    "url": "https://www.upenn.edu",
+    "state": "Pennsylvania",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "Duke University",
+    "url": "https://www.duke.edu",
+    "state": "North Carolina",
+    "has_stats_dept": true,
+    "verified": true,
+    "dept_url": "https://stat.duke.edu"
+  },
+  {
+    "name": "Northwestern University",
+    "url": "https://www.northwestern.edu",
+    "state": "Illinois",
+    "has_stats_dept": true,
+    "verified": true,
+    "dept_url": "https://statistics.northwestern.edu"
+  },
+  {
+    "name": "University of Michigan",
+    "url": "https://umich.edu",
+    "state": "Michigan",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "University of California, Los Angeles",
+    "url": "https://www.ucla.edu",
+    "state": "California",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "University of Wisconsin-Madison",
+    "url": "https://www.wisc.edu",
+    "state": "Wisconsin",
+    "has_stats_dept": true,
+    "verified": true,
+    "dept_url": "https://stat.wisc.edu"
+  },
+  {
+    "name": "Cornell University",
+    "url": "https://www.cornell.edu",
+    "state": "New York",
+    "has_stats_dept": true,
+    "verified": true,
+    "dept_url": "https://stat.cornell.edu"
+  },
+  {
+    "name": "University of Washington",
+    "url": "https://www.washington.edu",
+    "state": "Washington",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "Rice University",
+    "url": "https://www.rice.edu",
+    "state": "Texas",
+    "has_stats_dept": true,
+    "verified": true,
+    "dept_url": "https://statistics.rice.edu"
+  },
+  {
+    "name": "Vanderbilt University",
+    "url": "https://www.vanderbilt.edu",
+    "state": "Tennessee",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "Emory University",
+    "url": "https://www.emory.edu",
+    "state": "Georgia",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "University of California, San Diego",
+    "url": "https://ucsd.edu",
+    "state": "California",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "Johns Hopkins University",
+    "url": "https://www.jhu.edu",
+    "state": "Maryland",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "Washington University in St. Louis",
+    "url": "https://wustl.edu",
+    "state": "Missouri",
+    "has_stats_dept": true,
+    "verified": true,
+    "dept_url": "https://wustl.edu/statistics"
+  },
+  {
+    "name": "Brown University",
+    "url": "https://www.brown.edu",
+    "state": "Rhode Island",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "Dartmouth College",
+    "url": "https://home.dartmouth.edu",
+    "state": "New Hampshire",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "University of Southern California",
+    "url": "https://www.usc.edu",
+    "state": "California",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "Boston University",
+    "url": "https://www.bu.edu",
+    "state": "Massachusetts",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "New York University",
+    "url": "https://www.nyu.edu",
+    "state": "New York",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "University of Rochester",
+    "url": "https://www.rochester.edu",
+    "state": "New York",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "Case Western Reserve University",
+    "url": "https://case.edu",
+    "state": "Ohio",
+    "has_stats_dept": true,
+    "verified": true,
+    "dept_url": "https://statistics.case.edu"
+  },
+  {
+    "name": "University of California, Davis",
+    "url": "https://www.ucdavis.edu",
+    "state": "California",
+    "has_stats_dept": true,
+    "verified": true,
+    "dept_url": "https://statistics.ucdavis.edu"
+  },
+  {
+    "name": "University of California, Irvine",
+    "url": "https://uci.edu",
+    "state": "California",
+    "has_stats_dept": true,
+    "verified": true,
+    "dept_url": "https://statistics.uci.edu"
+  },
+  {
+    "name": "University of California, Santa Barbara",
+    "url": "https://www.ucsb.edu",
+    "state": "California",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "University of Virginia",
+    "url": "https://www.virginia.edu",
+    "state": "Virginia",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "University of North Carolina at Chapel Hill",
+    "url": "https://www.unc.edu",
+    "state": "North Carolina",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "Georgia Institute of Technology",
+    "url": "https://www.gatech.edu",
+    "state": "Georgia",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "University of Texas at Austin",
+    "url": "https://www.utexas.edu",
+    "state": "Texas",
+    "has_stats_dept": true,
+    "verified": true,
+    "dept_url": "https://stat.utexas.edu"
+  },
+  {
+    "name": "Texas A&M University",
+    "url": "https://www.tamu.edu",
+    "state": "Texas",
+    "has_stats_dept": true,
+    "verified": true,
+    "dept_url": "https://stat.tamu.edu"
+  },
+  {
+    "name": "University of Florida",
+    "url": "https://www.ufl.edu",
+    "state": "Florida",
+    "has_stats_dept": true,
+    "verified": true,
+    "dept_url": "https://stat.ufl.edu"
+  },
+  {
+    "name": "Florida State University",
+    "url": "https://www.fsu.edu",
+    "state": "Florida",
+    "has_stats_dept": true,
+    "verified": true,
+    "dept_url": "https://stat.fsu.edu"
+  },
+  {
+    "name": "University of Minnesota",
+    "url": "https://twin-cities.umn.edu",
+    "state": "Minnesota",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "Ohio State University",
+    "url": "https://www.osu.edu",
+    "state": "Ohio",
+    "has_stats_dept": true,
+    "verified": true,
+    "dept_url": "https://stat.osu.edu"
+  },
+  {
+    "name": "Pennsylvania State University",
+    "url": "https://www.psu.edu",
+    "state": "Pennsylvania",
+    "has_stats_dept": true,
+    "verified": true,
+    "dept_url": "https://stats.psu.edu"
+  },
+  {
+    "name": "Purdue University",
+    "url": "https://www.purdue.edu",
+    "state": "Indiana",
+    "has_stats_dept": true,
+    "verified": true,
+    "dept_url": "https://www.purdue.edu/statistics"
+  },
+  {
+    "name": "University of Illinois at Urbana-Champaign",
+    "url": "https://illinois.edu",
+    "state": "Illinois",
+    "has_stats_dept": true,
+    "verified": true,
+    "dept_url": "https://stat.illinois.edu"
+  },
+  {
+    "name": "University of Iowa",
+    "url": "https://uiowa.edu",
+    "state": "Iowa",
+    "has_stats_dept": true,
+    "verified": true,
+    "dept_url": "https://stat.uiowa.edu"
+  },
+  {
+    "name": "Iowa State University",
+    "url": "https://www.iastate.edu",
+    "state": "Iowa",
+    "has_stats_dept": true,
+    "verified": true,
+    "dept_url": "https://stat.iastate.edu"
+  },
+  {
+    "name": "Kansas State University",
+    "url": "https://www.k-state.edu",
+    "state": "Kansas",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "University of Kansas",
+    "url": "https://ku.edu",
+    "state": "Kansas",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "University of Missouri",
+    "url": "https://missouri.edu",
+    "state": "Missouri",
+    "has_stats_dept": true,
+    "verified": true,
+    "dept_url": "https://statistics.missouri.edu"
+  },
+  {
+    "name": "University of Nebraska-Lincoln",
+    "url": "https://www.unl.edu",
+    "state": "Nebraska",
+    "has_stats_dept": true,
+    "verified": true,
+    "dept_url": "https://statistics.unl.edu"
+  },
+  {
+    "name": "University of Oklahoma",
+    "url": "https://www.ou.edu",
+    "state": "Oklahoma",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "Oklahoma State University",
+    "url": "https://go.okstate.edu",
+    "state": "Oklahoma",
+    "has_stats_dept": true,
+    "verified": true,
+    "dept_url": "https://statistics.okstate.edu"
+  },
+  {
+    "name": "Arizona State University",
+    "url": "https://www.asu.edu",
+    "state": "Arizona",
+    "has_stats_dept": true,
+    "verified": true,
+    "dept_url": "https://www.asu.edu/statistics"
+  },
+  {
+    "name": "University of Arizona",
+    "url": "https://www.arizona.edu",
+    "state": "Arizona",
+    "has_stats_dept": true,
+    "verified": true,
+    "dept_url": "https://statistics.arizona.edu"
+  },
+  {
+    "name": "University of Colorado Boulder",
+    "url": "https://www.colorado.edu",
+    "state": "Colorado",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "Colorado State University",
+    "url": "https://www.colostate.edu",
+    "state": "Colorado",
+    "has_stats_dept": true,
+    "verified": true,
+    "dept_url": "https://statistics.colostate.edu"
+  },
+  {
+    "name": "University of Utah",
+    "url": "https://www.utah.edu",
+    "state": "Utah",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "Utah State University",
+    "url": "https://www.usu.edu",
+    "state": "Utah",
+    "has_stats_dept": true,
+    "verified": true,
+    "dept_url": "https://stat.usu.edu"
+  },
+  {
+    "name": "University of Oregon",
+    "url": "https://www.uoregon.edu",
+    "state": "Oregon",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "Oregon State University",
+    "url": "https://oregonstate.edu",
+    "state": "Oregon",
+    "has_stats_dept": true,
+    "verified": true,
+    "dept_url": "https://stat.oregonstate.edu"
+  },
+  {
+    "name": "University of Nevada, Las Vegas",
+    "url": "https://www.unlv.edu",
+    "state": "Nevada",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "University of Nevada, Reno",
+    "url": "https://www.unr.edu",
+    "state": "Nevada",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "Montana State University",
+    "url": "https://www.montana.edu",
+    "state": "Montana",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "University of Montana",
+    "url": "https://www.umt.edu",
+    "state": "Montana",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "North Dakota State University",
+    "url": "https://www.ndsu.edu",
+    "state": "North Dakota",
+    "has_stats_dept": true,
+    "verified": true,
+    "dept_url": "https://www.ndsu.edu/statistics"
+  },
+  {
+    "name": "University of North Dakota",
+    "url": "https://und.edu",
+    "state": "North Dakota",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "South Dakota State University",
+    "url": "https://www.sdstate.edu",
+    "state": "South Dakota",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "University of South Dakota",
+    "url": "https://www.usd.edu",
+    "state": "South Dakota",
+    "has_stats_dept": true,
+    "verified": true,
+    "dept_url": "https://www.usd.edu/statistics"
+  },
+  {
+    "name": "University of Wyoming",
+    "url": "https://www.uwyo.edu",
+    "state": "Wyoming",
+    "has_stats_dept": true,
+    "verified": true,
+    "dept_url": "https://www.uwyo.edu/statistics"
+  },
+  {
+    "name": "University of Idaho",
+    "url": "https://www.uidaho.edu",
+    "state": "Idaho",
+    "has_stats_dept": true,
+    "verified": true,
+    "dept_url": "https://www.uidaho.edu/statistics"
+  },
+  {
+    "name": "Boise State University",
+    "url": "https://www.boisestate.edu",
+    "state": "Idaho",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "University of Alaska Fairbanks",
+    "url": "https://www.uaf.edu",
+    "state": "Alaska",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "University of Hawaii at Manoa",
+    "url": "https://manoa.hawaii.edu",
+    "state": "Hawaii",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "University of South Carolina",
+    "url": "https://www.sc.edu",
+    "state": "South Carolina",
+    "has_stats_dept": true,
+    "verified": true,
+    "dept_url": "https://www.sc.edu/statistics"
+  },
+  {
+    "name": "Clemson University",
+    "url": "https://www.clemson.edu",
+    "state": "South Carolina",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "North Carolina State University",
+    "url": "https://www.ncsu.edu",
+    "state": "North Carolina",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "Wake Forest University",
+    "url": "https://www.wfu.edu",
+    "state": "North Carolina",
+    "has_stats_dept": true,
+    "verified": true,
+    "dept_url": "https://stats.wfu.edu"
+  },
+  {
+    "name": "University of Tennessee",
+    "url": "https://www.utk.edu",
+    "state": "Tennessee",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "University of Kentucky",
+    "url": "https://www.uky.edu",
+    "state": "Kentucky",
+    "has_stats_dept": true,
+    "verified": true,
+    "dept_url": "https://statistics.uky.edu"
+  },
+  {
+    "name": "University of Louisville",
+    "url": "https://louisville.edu",
+    "state": "Kentucky",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "West Virginia University",
+    "url": "https://www.wvu.edu",
+    "state": "West Virginia",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "Virginia Tech",
+    "url": "https://www.vt.edu",
+    "state": "Virginia",
+    "has_stats_dept": true,
+    "verified": true,
+    "dept_url": "https://stat.vt.edu"
+  },
+  {
+    "name": "George Mason University",
+    "url": "https://www.gmu.edu",
+    "state": "Virginia",
+    "has_stats_dept": true,
+    "verified": true,
+    "dept_url": "https://statistics.gmu.edu"
+  },
+  {
+    "name": "University of Maryland",
+    "url": "https://www.umd.edu",
+    "state": "Maryland",
+    "has_stats_dept": true,
+    "verified": true,
+    "dept_url": "https://stat.umd.edu"
+  },
+  {
+    "name": "University of Delaware",
+    "url": "https://www.udel.edu",
+    "state": "Delaware",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "Rutgers University",
+    "url": "https://www.rutgers.edu",
+    "state": "New Jersey",
+    "has_stats_dept": true,
+    "verified": true,
+    "dept_url": "https://statistics.rutgers.edu"
+  },
+  {
+    "name": "University of Connecticut",
+    "url": "https://uconn.edu",
+    "state": "Connecticut",
+    "has_stats_dept": true,
+    "verified": true,
+    "dept_url": "https://statistics.uconn.edu"
+  },
+  {
+    "name": "University of Vermont",
+    "url": "https://www.uvm.edu",
+    "state": "Vermont",
+    "has_stats_dept": true,
+    "verified": true,
+    "dept_url": "https://www.uvm.edu/statistics"
+  },
+  {
+    "name": "University of Maine",
+    "url": "https://umaine.edu",
+    "state": "Maine",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "University of New Hampshire",
+    "url": "https://www.unh.edu",
+    "state": "New Hampshire",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "University of Rhode Island",
+    "url": "https://www.uri.edu",
+    "state": "Rhode Island",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "Syracuse University",
+    "url": "https://www.syracuse.edu",
+    "state": "New York",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "University at Albany",
+    "url": "https://www.albany.edu",
+    "state": "New York",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "University at Buffalo",
+    "url": "https://www.buffalo.edu",
+    "state": "New York",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "Stony Brook University",
+    "url": "https://www.stonybrook.edu",
+    "state": "New York",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "Rochester Institute of Technology",
+    "url": "https://www.rit.edu",
+    "state": "New York",
+    "has_stats_dept": true,
+    "verified": true,
+    "dept_url": "https://statistics.rit.edu"
+  },
+  {
+    "name": "Rensselaer Polytechnic Institute",
+    "url": "https://www.rpi.edu",
+    "state": "New York",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "University of Pittsburgh",
+    "url": "https://www.pitt.edu",
+    "state": "Pennsylvania",
+    "has_stats_dept": true,
+    "verified": true,
+    "dept_url": "https://statistics.pitt.edu"
+  },
+  {
+    "name": "Temple University",
+    "url": "https://www.temple.edu",
+    "state": "Pennsylvania",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "Drexel University",
+    "url": "https://drexel.edu",
+    "state": "Pennsylvania",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "Villanova University",
+    "url": "https://www.villanova.edu",
+    "state": "Pennsylvania",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "Lehigh University",
+    "url": "https://www1.lehigh.edu",
+    "state": "Pennsylvania",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "University of Cincinnati",
+    "url": "https://www.uc.edu",
+    "state": "Ohio",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "Miami University",
+    "url": "https://miamioh.edu",
+    "state": "Ohio",
+    "has_stats_dept": true,
+    "verified": true,
+    "dept_url": "https://miamioh.edu/statistics"
+  },
+  {
+    "name": "University of Akron",
+    "url": "https://www.uakron.edu",
+    "state": "Ohio",
+    "has_stats_dept": true,
+    "verified": true,
+    "dept_url": "https://www.uakron.edu/statistics"
+  },
+  {
+    "name": "Kent State University",
+    "url": "https://www.kent.edu",
+    "state": "Ohio",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "Bowling Green State University",
+    "url": "https://www.bgsu.edu",
+    "state": "Ohio",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "Wayne State University",
+    "url": "https://wayne.edu",
+    "state": "Michigan",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "Michigan State University",
+    "url": "https://msu.edu",
+    "state": "Michigan",
+    "has_stats_dept": true,
+    "verified": true,
+    "dept_url": "https://stat.msu.edu"
+  },
+  {
+    "name": "Western Michigan University",
+    "url": "https://wmich.edu",
+    "state": "Michigan",
+    "has_stats_dept": true,
+    "verified": true,
+    "dept_url": "https://wmich.edu/statistics"
+  },
+  {
+    "name": "Central Michigan University",
+    "url": "https://www.cmich.edu",
+    "state": "Michigan",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "University of Wisconsin-Milwaukee",
+    "url": "https://uwm.edu",
+    "state": "Wisconsin",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "Marquette University",
+    "url": "https://www.marquette.edu",
+    "state": "Wisconsin",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "Northern Illinois University",
+    "url": "https://www.niu.edu",
+    "state": "Illinois",
+    "has_stats_dept": true,
+    "verified": true,
+    "dept_url": "https://stat.niu.edu"
+  },
+  {
+    "name": "Southern Illinois University",
+    "url": "https://siu.edu",
+    "state": "Illinois",
+    "has_stats_dept": true,
+    "verified": true,
+    "dept_url": "https://statistics.siu.edu"
+  },
+  {
+    "name": "DePaul University",
+    "url": "https://www.depaul.edu",
+    "state": "Illinois",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "Illinois Institute of Technology",
+    "url": "https://www.iit.edu",
+    "state": "Illinois",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "University of Chicago",
+    "url": "https://www.uchicago.edu",
+    "state": "Illinois",
+    "has_stats_dept": true,
+    "verified": true,
+    "dept_url": "https://statistics.uchicago.edu"
+  },
+  {
+    "name": "Indiana University",
+    "url": "https://www.indiana.edu",
+    "state": "Indiana",
+    "has_stats_dept": true,
+    "verified": true,
+    "dept_url": "https://stat.indiana.edu"
+  },
+  {
+    "name": "Ball State University",
+    "url": "https://www.bsu.edu",
+    "state": "Indiana",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "Indiana State University",
+    "url": "https://www.indstate.edu",
+    "state": "Indiana",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "University of Notre Dame",
+    "url": "https://www.nd.edu",
+    "state": "Indiana",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "Drake University",
+    "url": "https://www.drake.edu",
+    "state": "Iowa",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "University of Northern Iowa",
+    "url": "https://uni.edu",
+    "state": "Iowa",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "Wichita State University",
+    "url": "https://www.wichita.edu",
+    "state": "Kansas",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "Kansas State University",
+    "url": "https://www.k-state.edu",
+    "state": "Kansas",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "University of Missouri-Kansas City",
+    "url": "https://www.umkc.edu",
+    "state": "Missouri",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "Missouri State University",
+    "url": "https://www.missouristate.edu",
+    "state": "Missouri",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "Saint Louis University",
+    "url": "https://www.slu.edu",
+    "state": "Missouri",
+    "has_stats_dept": true,
+    "verified": true,
+    "dept_url": "https://stat.slu.edu"
+  },
+  {
+    "name": "University of Arkansas",
+    "url": "https://www.uark.edu",
+    "state": "Arkansas",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "Arkansas State University",
+    "url": "https://www.astate.edu",
+    "state": "Arkansas",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "Louisiana State University",
+    "url": "https://www.lsu.edu",
+    "state": "Louisiana",
+    "has_stats_dept": true,
+    "verified": true,
+    "dept_url": "https://stat.lsu.edu"
+  },
+  {
+    "name": "Tulane University",
+    "url": "https://tulane.edu",
+    "state": "Louisiana",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "University of New Orleans",
+    "url": "https://www.uno.edu",
+    "state": "Louisiana",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "University of Mississippi",
+    "url": "https://olemiss.edu",
+    "state": "Mississippi",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "Mississippi State University",
+    "url": "https://www.msstate.edu",
+    "state": "Mississippi",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "University of Alabama",
+    "url": "https://www.ua.edu",
+    "state": "Alabama",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "Auburn University",
+    "url": "https://www.auburn.edu",
+    "state": "Alabama",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "University of Alabama at Birmingham",
+    "url": "https://www.uab.edu",
+    "state": "Alabama",
+    "has_stats_dept": true,
+    "verified": true,
+    "dept_url": "https://www.uab.edu/statistics"
+  },
+  {
+    "name": "University of South Alabama",
+    "url": "https://www.southalabama.edu",
+    "state": "Alabama",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "Florida International University",
+    "url": "https://www.fiu.edu",
+    "state": "Florida",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "University of Central Florida",
+    "url": "https://www.ucf.edu",
+    "state": "Florida",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "Florida Institute of Technology",
+    "url": "https://www.fit.edu",
+    "state": "Florida",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "Nova Southeastern University",
+    "url": "https://www.nova.edu",
+    "state": "Florida",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "University of Miami",
+    "url": "https://www.miami.edu",
+    "state": "Florida",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "Florida Atlantic University",
+    "url": "https://www.fau.edu",
+    "state": "Florida",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "University of South Florida",
+    "url": "https://www.usf.edu",
+    "state": "Florida",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "Georgia State University",
+    "url": "https://www.gsu.edu",
+    "state": "Georgia",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "Georgia Southern University",
+    "url": "https://www.georgiasouthern.edu",
+    "state": "Georgia",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "University of Georgia",
+    "url": "https://www.uga.edu",
+    "state": "Georgia",
+    "has_stats_dept": true,
+    "verified": true,
+    "dept_url": "https://stat.uga.edu"
+  },
+  {
+    "name": "Texas Tech University",
+    "url": "https://www.ttu.edu",
+    "state": "Texas",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "University of Houston",
+    "url": "https://uh.edu",
+    "state": "Texas",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "Texas Christian University",
+    "url": "https://www.tcu.edu",
+    "state": "Texas",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "Baylor University",
+    "url": "https://www.baylor.edu",
+    "state": "Texas",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "Southern Methodist University",
+    "url": "https://www.smu.edu",
+    "state": "Texas",
+    "has_stats_dept": true,
+    "verified": true,
+    "dept_url": "https://www.smu.edu/statistics"
+  },
+  {
+    "name": "Texas State University",
+    "url": "https://www.txst.edu",
+    "state": "Texas",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "University of Texas at Dallas",
+    "url": "https://www.utdallas.edu",
+    "state": "Texas",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "New Mexico State University",
+    "url": "https://nmsu.edu",
+    "state": "New Mexico",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "University of New Mexico",
+    "url": "https://www.unm.edu",
+    "state": "New Mexico",
+    "has_stats_dept": true,
+    "verified": true,
+    "dept_url": "https://stat.unm.edu"
+  },
+  {
+    "name": "Northern Arizona University",
+    "url": "https://nau.edu",
+    "state": "Arizona",
+    "has_stats_dept": true,
+    "verified": true,
+    "dept_url": "https://nau.edu/statistics"
+  },
+  {
+    "name": "Arizona State University",
+    "url": "https://www.asu.edu",
+    "state": "Arizona",
+    "has_stats_dept": true,
+    "verified": true,
+    "dept_url": "https://www.asu.edu/statistics"
+  },
+  {
+    "name": "Washington State University",
+    "url": "https://wsu.edu",
+    "state": "Washington",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "Western Washington University",
+    "url": "https://www.wwu.edu",
+    "state": "Washington",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "Portland State University",
+    "url": "https://www.pdx.edu",
+    "state": "Oregon",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "University of Portland",
+    "url": "https://www.up.edu",
+    "state": "Oregon",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "Gonzaga University",
+    "url": "https://www.gonzaga.edu",
+    "state": "Washington",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "Seattle University",
+    "url": "https://www.seattleu.edu",
+    "state": "Washington",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "University of California, Riverside",
+    "url": "https://www.ucr.edu",
+    "state": "California",
+    "has_stats_dept": true,
+    "verified": true,
+    "dept_url": "https://statistics.ucr.edu"
+  },
+  {
+    "name": "California State University, Long Beach",
+    "url": "https://www.csulb.edu",
+    "state": "California",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "San Diego State University",
+    "url": "https://www.sdsu.edu",
+    "state": "California",
+    "has_stats_dept": true,
+    "verified": true,
+    "dept_url": "https://stats.sdsu.edu"
+  },
+  {
+    "name": "California State University, Fullerton",
+    "url": "https://www.fullerton.edu",
+    "state": "California",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "University of San Francisco",
+    "url": "https://www.usfca.edu",
+    "state": "California",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "Santa Clara University",
+    "url": "https://www.scu.edu",
+    "state": "California",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "Pepperdine University",
+    "url": "https://www.pepperdine.edu",
+    "state": "California",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "Claremont Graduate University",
+    "url": "https://www.cgu.edu",
+    "state": "California",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "California Institute of Technology",
+    "url": "https://www.caltech.edu",
+    "state": "California",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  },
+  {
+    "name": "Harvey Mudd College",
+    "url": "https://www.hmc.edu",
+    "state": "California",
+    "has_stats_dept": false,
+    "verified": true,
+    "dept_url": null
+  }
+]
