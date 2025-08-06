@@ -1,0 +1,3 @@
+
+The download pdf file is not right.  It looks like we need to get into the website by clicking "I Accept". could you review thw puython code "Step1_DownloadJust1pdf.py" to implement this?
+

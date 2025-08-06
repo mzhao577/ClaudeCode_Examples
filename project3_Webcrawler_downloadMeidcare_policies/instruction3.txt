@@ -1,0 +1,2 @@
+
+Excellent, the download file is in the right format. Now I want to download as many policies as you could.  First please write a python code to  do a research to find all URLs for all Medicare Medical Polices for LCD (Local Determination Cpoverage), one URL for each policy. Please name this python code as "Step2_Find _allPolicy_URLs.py.  Please store all the urls in one file called "All_urls.json".  

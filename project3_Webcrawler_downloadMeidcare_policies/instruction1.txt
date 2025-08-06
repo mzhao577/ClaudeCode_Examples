@@ -1,0 +1,7 @@
+I am trying to download all Medicare policies/guidelines from its website. I am only interested in the Medical policy, not Dental or visdion policy. I am also only interested in the Local Coverage Determination policy (LCD). The policies files or weblink specifies certain procedure codes such as CPT, HCPCS codes along with the ICD-10 diagnosis codes. Could you make a plan to carry out the following tasks?
+
+Firs, please find the Medicare website that holds all Medicare Medical policies or Guidelines for LCD. And pick a URL for one policy.
+ 
+Then create a python code to download this policy as a pdf file.  I would like the pdf file created nicely, keeping all the details and table format etc.
+Please call the python file "Step1_DownloadJust1pdf.py".  I realize that the package"weasyprint" is not good to print podf file in good quality.  Please use the packaage playwright to print html file to pdf instead.
+

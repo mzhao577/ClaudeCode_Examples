@@ -1,0 +1,626 @@
+{
+  "search_date": "2025-07-29T10:44:02.527276",
+  "total_policies": 69,
+  "validated_policies": 6,
+  "estimated_policies": 63,
+  "source": "CMS Medicare Coverage Database",
+  "search_method": "Manual compilation + pattern estimation",
+  "note": "Validated policies are confirmed working. Estimated policies follow common patterns but may need validation.",
+  "policies": [
+    {
+      "lcd_id": "33822",
+      "doc_id": "L33822",
+      "title": "Glucose Monitors",
+      "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=33822&DocID=L33822",
+      "category": "Medical Equipment",
+      "found_date": "2025-07-29T10:44:02.527204"
+    },
+    {
+      "lcd_id": "35000",
+      "doc_id": "L35000",
+      "title": "Molecular Pathology Procedures",
+      "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=35000",
+      "category": "Laboratory",
+      "found_date": "2025-07-29T10:44:02.527214"
+    },
+    {
+      "lcd_id": "35070",
+      "doc_id": "L35070",
+      "title": "Speech-Language Pathology (SLP) Services: Communication Disorders",
+      "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=35070",
+      "category": "Therapy Services",
+      "found_date": "2025-07-29T10:44:02.527215"
+    },
+    {
+      "lcd_id": "33803",
+      "doc_id": "L33803",
+      "title": "Urological Supplies",
+      "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=33803",
+      "category": "Medical Supplies",
+      "found_date": "2025-07-29T10:44:02.527216"
+    },
+    {
+      "lcd_id": "33393",
+      "doc_id": "L33393",
+      "title": "Hospice - Determining Terminal Status",
+      "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=33393",
+      "category": "Hospice Care",
+      "found_date": "2025-07-29T10:44:02.527217"
+    },
+    {
+      "lcd_id": "38617",
+      "doc_id": "L38617",
+      "title": "Implantable Continuous Glucose Monitors (I-CGM)",
+      "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdId=38617",
+      "category": "Medical Equipment",
+      "found_date": "2025-07-29T10:44:02.527217"
+    },
+    {
+      "lcd_id": "33800",
+      "doc_id": "L33800",
+      "title": "LCD Policy L33800 - Medical Equipment",
+      "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=33800",
+      "category": "Medical Equipment",
+      "found_date": "2025-07-29T10:44:02.527220",
+      "status": "estimated"
+    },
+    {
+      "lcd_id": "33801",
+      "doc_id": "L33801",
+      "title": "LCD Policy L33801 - Medical Equipment",
+      "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=33801",
+      "category": "Medical Equipment",
+      "found_date": "2025-07-29T10:44:02.527222",
+      "status": "estimated"
+    },
+    {
+      "lcd_id": "33804",
+      "doc_id": "L33804",
+      "title": "LCD Policy L33804 - Medical Equipment",
+      "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=33804",
+      "category": "Medical Equipment",
+      "found_date": "2025-07-29T10:44:02.527223",
+      "status": "estimated"
+    },
+    {
+      "lcd_id": "33805",
+      "doc_id": "L33805",
+      "title": "LCD Policy L33805 - Medical Equipment",
+      "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=33805",
+      "category": "Medical Equipment",
+      "found_date": "2025-07-29T10:44:02.527224",
+      "status": "estimated"
+    },
+    {
+      "lcd_id": "33810",
+      "doc_id": "L33810",
+      "title": "LCD Policy L33810 - Medical Equipment",
+      "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=33810",
+      "category": "Medical Equipment",
+      "found_date": "2025-07-29T10:44:02.527225",
+      "status": "estimated"
+    },
+    {
+      "lcd_id": "33815",
+      "doc_id": "L33815",
+      "title": "LCD Policy L33815 - Medical Equipment",
+      "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=33815",
+      "category": "Medical Equipment",
+      "found_date": "2025-07-29T10:44:02.527226",
+      "status": "estimated"
+    },
+    {
+      "lcd_id": "33820",
+      "doc_id": "L33820",
+      "title": "LCD Policy L33820 - Medical Equipment",
+      "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=33820",
+      "category": "Medical Equipment",
+      "found_date": "2025-07-29T10:44:02.527227",
+      "status": "estimated"
+    },
+    {
+      "lcd_id": "33825",
+      "doc_id": "L33825",
+      "title": "LCD Policy L33825 - Medical Equipment",
+      "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=33825",
+      "category": "Medical Equipment",
+      "found_date": "2025-07-29T10:44:02.527227",
+      "status": "estimated"
+    },
+    {
+      "lcd_id": "33830",
+      "doc_id": "L33830",
+      "title": "LCD Policy L33830 - Medical Equipment",
+      "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=33830",
+      "category": "Medical Equipment",
+      "found_date": "2025-07-29T10:44:02.527228",
+      "status": "estimated"
+    },
+    {
+      "lcd_id": "35001",
+      "doc_id": "L35001",
+      "title": "LCD Policy L35001 - Laboratory Services",
+      "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=35001",
+      "category": "Laboratory Services",
+      "found_date": "2025-07-29T10:44:02.527229",
+      "status": "estimated"
+    },
+    {
+      "lcd_id": "35002",
+      "doc_id": "L35002",
+      "title": "LCD Policy L35002 - Laboratory Services",
+      "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=35002",
+      "category": "Laboratory Services",
+      "found_date": "2025-07-29T10:44:02.527230",
+      "status": "estimated"
+    },
+    {
+      "lcd_id": "35005",
+      "doc_id": "L35005",
+      "title": "LCD Policy L35005 - Laboratory Services",
+      "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=35005",
+      "category": "Laboratory Services",
+      "found_date": "2025-07-29T10:44:02.527231",
+      "status": "estimated"
+    },
+    {
+      "lcd_id": "35010",
+      "doc_id": "L35010",
+      "title": "LCD Policy L35010 - Laboratory Services",
+      "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=35010",
+      "category": "Laboratory Services",
+      "found_date": "2025-07-29T10:44:02.527232",
+      "status": "estimated"
+    },
+    {
+      "lcd_id": "35015",
+      "doc_id": "L35015",
+      "title": "LCD Policy L35015 - Laboratory Services",
+      "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=35015",
+      "category": "Laboratory Services",
+      "found_date": "2025-07-29T10:44:02.527232",
+      "status": "estimated"
+    },
+    {
+      "lcd_id": "35020",
+      "doc_id": "L35020",
+      "title": "LCD Policy L35020 - Laboratory Services",
+      "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=35020",
+      "category": "Laboratory Services",
+      "found_date": "2025-07-29T10:44:02.527233",
+      "status": "estimated"
+    },
+    {
+      "lcd_id": "35025",
+      "doc_id": "L35025",
+      "title": "LCD Policy L35025 - Laboratory Services",
+      "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=35025",
+      "category": "Laboratory Services",
+      "found_date": "2025-07-29T10:44:02.527234",
+      "status": "estimated"
+    },
+    {
+      "lcd_id": "35030",
+      "doc_id": "L35030",
+      "title": "LCD Policy L35030 - Laboratory Services",
+      "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=35030",
+      "category": "Laboratory Services",
+      "found_date": "2025-07-29T10:44:02.527235",
+      "status": "estimated"
+    },
+    {
+      "lcd_id": "34000",
+      "doc_id": "L34000",
+      "title": "LCD Policy L34000 - Diagnostic Imaging",
+      "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=34000",
+      "category": "Diagnostic Imaging",
+      "found_date": "2025-07-29T10:44:02.527236",
+      "status": "estimated"
+    },
+    {
+      "lcd_id": "34010",
+      "doc_id": "L34010",
+      "title": "LCD Policy L34010 - Diagnostic Imaging",
+      "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=34010",
+      "category": "Diagnostic Imaging",
+      "found_date": "2025-07-29T10:44:02.527236",
+      "status": "estimated"
+    },
+    {
+      "lcd_id": "34020",
+      "doc_id": "L34020",
+      "title": "LCD Policy L34020 - Diagnostic Imaging",
+      "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=34020",
+      "category": "Diagnostic Imaging",
+      "found_date": "2025-07-29T10:44:02.527237",
+      "status": "estimated"
+    },
+    {
+      "lcd_id": "34030",
+      "doc_id": "L34030",
+      "title": "LCD Policy L34030 - Diagnostic Imaging",
+      "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=34030",
+      "category": "Diagnostic Imaging",
+      "found_date": "2025-07-29T10:44:02.527238",
+      "status": "estimated"
+    },
+    {
+      "lcd_id": "34040",
+      "doc_id": "L34040",
+      "title": "LCD Policy L34040 - Diagnostic Imaging",
+      "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=34040",
+      "category": "Diagnostic Imaging",
+      "found_date": "2025-07-29T10:44:02.527239",
+      "status": "estimated"
+    },
+    {
+      "lcd_id": "34050",
+      "doc_id": "L34050",
+      "title": "LCD Policy L34050 - Diagnostic Imaging",
+      "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=34050",
+      "category": "Diagnostic Imaging",
+      "found_date": "2025-07-29T10:44:02.527240",
+      "status": "estimated"
+    },
+    {
+      "lcd_id": "34060",
+      "doc_id": "L34060",
+      "title": "LCD Policy L34060 - Diagnostic Imaging",
+      "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=34060",
+      "category": "Diagnostic Imaging",
+      "found_date": "2025-07-29T10:44:02.527240",
+      "status": "estimated"
+    },
+    {
+      "lcd_id": "34070",
+      "doc_id": "L34070",
+      "title": "LCD Policy L34070 - Diagnostic Imaging",
+      "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=34070",
+      "category": "Diagnostic Imaging",
+      "found_date": "2025-07-29T10:44:02.527241",
+      "status": "estimated"
+    },
+    {
+      "lcd_id": "36000",
+      "doc_id": "L36000",
+      "title": "LCD Policy L36000 - Surgical Procedures",
+      "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=36000",
+      "category": "Surgical Procedures",
+      "found_date": "2025-07-29T10:44:02.527242",
+      "status": "estimated"
+    },
+    {
+      "lcd_id": "36010",
+      "doc_id": "L36010",
+      "title": "LCD Policy L36010 - Surgical Procedures",
+      "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=36010",
+      "category": "Surgical Procedures",
+      "found_date": "2025-07-29T10:44:02.527243",
+      "status": "estimated"
+    },
+    {
+      "lcd_id": "36020",
+      "doc_id": "L36020",
+      "title": "LCD Policy L36020 - Surgical Procedures",
+      "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=36020",
+      "category": "Surgical Procedures",
+      "found_date": "2025-07-29T10:44:02.527244",
+      "status": "estimated"
+    },
+    {
+      "lcd_id": "36030",
+      "doc_id": "L36030",
+      "title": "LCD Policy L36030 - Surgical Procedures",
+      "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=36030",
+      "category": "Surgical Procedures",
+      "found_date": "2025-07-29T10:44:02.527244",
+      "status": "estimated"
+    },
+    {
+      "lcd_id": "36040",
+      "doc_id": "L36040",
+      "title": "LCD Policy L36040 - Surgical Procedures",
+      "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=36040",
+      "category": "Surgical Procedures",
+      "found_date": "2025-07-29T10:44:02.527245",
+      "status": "estimated"
+    },
+    {
+      "lcd_id": "36050",
+      "doc_id": "L36050",
+      "title": "LCD Policy L36050 - Surgical Procedures",
+      "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=36050",
+      "category": "Surgical Procedures",
+      "found_date": "2025-07-29T10:44:02.527246",
+      "status": "estimated"
+    },
+    {
+      "lcd_id": "36060",
+      "doc_id": "L36060",
+      "title": "LCD Policy L36060 - Surgical Procedures",
+      "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=36060",
+      "category": "Surgical Procedures",
+      "found_date": "2025-07-29T10:44:02.527247",
+      "status": "estimated"
+    },
+    {
+      "lcd_id": "36070",
+      "doc_id": "L36070",
+      "title": "LCD Policy L36070 - Surgical Procedures",
+      "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=36070",
+      "category": "Surgical Procedures",
+      "found_date": "2025-07-29T10:44:02.527247",
+      "status": "estimated"
+    },
+    {
+      "lcd_id": "35071",
+      "doc_id": "L35071",
+      "title": "LCD Policy L35071 - Therapy Services",
+      "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=35071",
+      "category": "Therapy Services",
+      "found_date": "2025-07-29T10:44:02.527248",
+      "status": "estimated"
+    },
+    {
+      "lcd_id": "35072",
+      "doc_id": "L35072",
+      "title": "LCD Policy L35072 - Therapy Services",
+      "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=35072",
+      "category": "Therapy Services",
+      "found_date": "2025-07-29T10:44:02.527249",
+      "status": "estimated"
+    },
+    {
+      "lcd_id": "35075",
+      "doc_id": "L35075",
+      "title": "LCD Policy L35075 - Therapy Services",
+      "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=35075",
+      "category": "Therapy Services",
+      "found_date": "2025-07-29T10:44:02.527250",
+      "status": "estimated"
+    },
+    {
+      "lcd_id": "35080",
+      "doc_id": "L35080",
+      "title": "LCD Policy L35080 - Therapy Services",
+      "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=35080",
+      "category": "Therapy Services",
+      "found_date": "2025-07-29T10:44:02.527251",
+      "status": "estimated"
+    },
+    {
+      "lcd_id": "35085",
+      "doc_id": "L35085",
+      "title": "LCD Policy L35085 - Therapy Services",
+      "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=35085",
+      "category": "Therapy Services",
+      "found_date": "2025-07-29T10:44:02.527251",
+      "status": "estimated"
+    },
+    {
+      "lcd_id": "35090",
+      "doc_id": "L35090",
+      "title": "LCD Policy L35090 - Therapy Services",
+      "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=35090",
+      "category": "Therapy Services",
+      "found_date": "2025-07-29T10:44:02.527252",
+      "status": "estimated"
+    },
+    {
+      "lcd_id": "35095",
+      "doc_id": "L35095",
+      "title": "LCD Policy L35095 - Therapy Services",
+      "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=35095",
+      "category": "Therapy Services",
+      "found_date": "2025-07-29T10:44:02.527253",
+      "status": "estimated"
+    },
+    {
+      "lcd_id": "37000",
+      "doc_id": "L37000",
+      "title": "LCD Policy L37000 - Home Health",
+      "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=37000",
+      "category": "Home Health",
+      "found_date": "2025-07-29T10:44:02.527255",
+      "status": "estimated"
+    },
+    {
+      "lcd_id": "37010",
+      "doc_id": "L37010",
+      "title": "LCD Policy L37010 - Home Health",
+      "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=37010",
+      "category": "Home Health",
+      "found_date": "2025-07-29T10:44:02.527256",
+      "status": "estimated"
+    },
+    {
+      "lcd_id": "37020",
+      "doc_id": "L37020",
+      "title": "LCD Policy L37020 - Home Health",
+      "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=37020",
+      "category": "Home Health",
+      "found_date": "2025-07-29T10:44:02.527257",
+      "status": "estimated"
+    },
+    {
+      "lcd_id": "37030",
+      "doc_id": "L37030",
+      "title": "LCD Policy L37030 - Home Health",
+      "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=37030",
+      "category": "Home Health",
+      "found_date": "2025-07-29T10:44:02.527257",
+      "status": "estimated"
+    },
+    {
+      "lcd_id": "37040",
+      "doc_id": "L37040",
+      "title": "LCD Policy L37040 - Home Health",
+      "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=37040",
+      "category": "Home Health",
+      "found_date": "2025-07-29T10:44:02.527258",
+      "status": "estimated"
+    },
+    {
+      "lcd_id": "37050",
+      "doc_id": "L37050",
+      "title": "LCD Policy L37050 - Home Health",
+      "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=37050",
+      "category": "Home Health",
+      "found_date": "2025-07-29T10:44:02.527259",
+      "status": "estimated"
+    },
+    {
+      "lcd_id": "37060",
+      "doc_id": "L37060",
+      "title": "LCD Policy L37060 - Home Health",
+      "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=37060",
+      "category": "Home Health",
+      "found_date": "2025-07-29T10:44:02.527260",
+      "status": "estimated"
+    },
+    {
+      "lcd_id": "37070",
+      "doc_id": "L37070",
+      "title": "LCD Policy L37070 - Home Health",
+      "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=37070",
+      "category": "Home Health",
+      "found_date": "2025-07-29T10:44:02.527261",
+      "status": "estimated"
+    },
+    {
+      "lcd_id": "38000",
+      "doc_id": "L38000",
+      "title": "LCD Policy L38000 - Durable Medical Equipment",
+      "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=38000",
+      "category": "Durable Medical Equipment",
+      "found_date": "2025-07-29T10:44:02.527261",
+      "status": "estimated"
+    },
+    {
+      "lcd_id": "38010",
+      "doc_id": "L38010",
+      "title": "LCD Policy L38010 - Durable Medical Equipment",
+      "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=38010",
+      "category": "Durable Medical Equipment",
+      "found_date": "2025-07-29T10:44:02.527262",
+      "status": "estimated"
+    },
+    {
+      "lcd_id": "38020",
+      "doc_id": "L38020",
+      "title": "LCD Policy L38020 - Durable Medical Equipment",
+      "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=38020",
+      "category": "Durable Medical Equipment",
+      "found_date": "2025-07-29T10:44:02.527263",
+      "status": "estimated"
+    },
+    {
+      "lcd_id": "38030",
+      "doc_id": "L38030",
+      "title": "LCD Policy L38030 - Durable Medical Equipment",
+      "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=38030",
+      "category": "Durable Medical Equipment",
+      "found_date": "2025-07-29T10:44:02.527264",
+      "status": "estimated"
+    },
+    {
+      "lcd_id": "38040",
+      "doc_id": "L38040",
+      "title": "LCD Policy L38040 - Durable Medical Equipment",
+      "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=38040",
+      "category": "Durable Medical Equipment",
+      "found_date": "2025-07-29T10:44:02.527265",
+      "status": "estimated"
+    },
+    {
+      "lcd_id": "38050",
+      "doc_id": "L38050",
+      "title": "LCD Policy L38050 - Durable Medical Equipment",
+      "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=38050",
+      "category": "Durable Medical Equipment",
+      "found_date": "2025-07-29T10:44:02.527265",
+      "status": "estimated"
+    },
+    {
+      "lcd_id": "38060",
+      "doc_id": "L38060",
+      "title": "LCD Policy L38060 - Durable Medical Equipment",
+      "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=38060",
+      "category": "Durable Medical Equipment",
+      "found_date": "2025-07-29T10:44:02.527266",
+      "status": "estimated"
+    },
+    {
+      "lcd_id": "39000",
+      "doc_id": "L39000",
+      "title": "LCD Policy L39000 - Prosthetics",
+      "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=39000",
+      "category": "Prosthetics",
+      "found_date": "2025-07-29T10:44:02.527267",
+      "status": "estimated"
+    },
+    {
+      "lcd_id": "39010",
+      "doc_id": "L39010",
+      "title": "LCD Policy L39010 - Prosthetics",
+      "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=39010",
+      "category": "Prosthetics",
+      "found_date": "2025-07-29T10:44:02.527268",
+      "status": "estimated"
+    },
+    {
+      "lcd_id": "39020",
+      "doc_id": "L39020",
+      "title": "LCD Policy L39020 - Prosthetics",
+      "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=39020",
+      "category": "Prosthetics",
+      "found_date": "2025-07-29T10:44:02.527269",
+      "status": "estimated"
+    },
+    {
+      "lcd_id": "39030",
+      "doc_id": "L39030",
+      "title": "LCD Policy L39030 - Prosthetics",
+      "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=39030",
+      "category": "Prosthetics",
+      "found_date": "2025-07-29T10:44:02.527269",
+      "status": "estimated"
+    },
+    {
+      "lcd_id": "39040",
+      "doc_id": "L39040",
+      "title": "LCD Policy L39040 - Prosthetics",
+      "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=39040",
+      "category": "Prosthetics",
+      "found_date": "2025-07-29T10:44:02.527270",
+      "status": "estimated"
+    },
+    {
+      "lcd_id": "39050",
+      "doc_id": "L39050",
+      "title": "LCD Policy L39050 - Prosthetics",
+      "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=39050",
+      "category": "Prosthetics",
+      "found_date": "2025-07-29T10:44:02.527271",
+      "status": "estimated"
+    },
+    {
+      "lcd_id": "39060",
+      "doc_id": "L39060",
+      "title": "LCD Policy L39060 - Prosthetics",
+      "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=39060",
+      "category": "Prosthetics",
+      "found_date": "2025-07-29T10:44:02.527272",
+      "status": "estimated"
+    },
+    {
+      "lcd_id": "39070",
+      "doc_id": "L39070",
+      "title": "LCD Policy L39070 - Prosthetics",
+      "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?LCDId=39070",
+      "category": "Prosthetics",
+      "found_date": "2025-07-29T10:44:02.527273",
+      "status": "estimated"
+    }
+  ]
+}

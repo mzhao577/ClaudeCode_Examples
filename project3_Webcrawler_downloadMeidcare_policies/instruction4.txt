@@ -1,0 +1,7 @@
+Now please write a python code called "Step3_Download_Allpolicies.py" to download multiple policy in pdf format from the URLs in  the file : All_urls.json. 
+
+I would like to have 2 options here: Download all the files or just a sample of 10 pdf files. The second options is to avoid the un-necessary waste of the online resources.
+Please write the python code so that the second option as a default options.
+
+When download the pdf files, please use the approach as specified in the file "Step1_DownloadJust1pdf.py".   Please store all the downloaded pdf in a folder called "Download_PDFs".   When downloading the pdf file, please use the policy_number in the file name and do not use the Procedure as name. For example, if the policy_number is: 0970, name the pdf file as "Policy_0970.pdf".
+  
